@@ -973,9 +973,10 @@ Sa Kabilang dako, ang sitwasyong ito naman ay magpapababa ng supply sa pamilihan
 <footer style="background:#ff7f50;padding:20px;text-align:center;color:white;font-size:20px;">
   © 2025 Taranee Rodelyn Guevarra | 2nd Quarter E-Portfolio
 <br>
-<strong><em>Credits for media contents:</em></strong> Riley Howard E. Dablo, Micah Angelique R. Jimenez, Martin Lemuel Torrijos, Grace Shantal G. Condino, Victoria Atienza, Christine Jadee Grace Brinas, Keisha Margarette G. Abello, School Paper Photo Journalist (Thank you all so muchh!!)
+<strong><em>Credits for media contents:</em></strong> Riley Howard E. Dablo, Micah Angelique R. Jimenez, Chloe Chavez, Martin Lemuel Torrijos, Grace Shantal G. Condino, Victoria Atienza, Christine Jadee Grace Brinas, Keisha Margarette G. Abello, School Paper Photo Journalist (Thank you all so muchh!!)
 </footer>
 
 </body>
 </html>
+
 
